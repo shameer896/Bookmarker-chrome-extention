@@ -1,6 +1,6 @@
 <h1>Bookmarker-chrome-extention</h1>
 A simple chrome extension used for saving the URL and delete if you want to<br>
-this is created using HTML,CSS and Javascript<br>
+This is created using HTML,CSS and Javascript<br>
 click <a href="#">here</a> for the UI demo<br>
 
 <h3>Instructions to add the extension to your chrome browser</h3>
