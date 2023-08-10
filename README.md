@@ -3,7 +3,7 @@ A simple chrome extension used for saving the URL and delete if you want to<br>
 this is created using HTML,CSS and Javascript<br>
 click <a href="#">here</a> for the UI demo<br>
 
-<h6>Instructions to add the extension to your chrome browser</h6>
+<h3>Instructions to add the extension to your chrome browser</h3>
 1.Open Chrome<br>
 2.Click on the three vertical dots (menu) at the top-right corner<br>
 3.Go to "More tools" > "Extensions"<br>
