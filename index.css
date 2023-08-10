@@ -1,0 +1,43 @@
+body{
+    background-color: black;
+    color: azure;
+}
+h1{
+    margin-left: 10px;
+}
+input{
+    appearance: none;
+    border-color: azure;
+    background-color:black ;
+    color: azure;
+    border-radius: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 350px;
+    box-sizing: border-box;
+}
+
+button{
+    width: 80px;
+    height: 30px;
+    padding: 1vh 1vh;
+    margin-top: 10px;
+    margin-left: 10px;
+    background-color: azure;
+    color: black;
+    border: none;
+    border-radius: 5px;
+}
+
+ul{
+    list-style: none;
+    padding: 0;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+li{
+    margin-top: 5px;
+}
+a{
+    color: azure;
+}
