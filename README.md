@@ -9,5 +9,5 @@ click <a href="https://shameer-bookmarker.netlify.app/">here</a> for the UI demo
 3.Go to "More tools" > "Extensions"<br>
 4.Toggle on the "Developer mode" switch located at the top-right corner of the Extensions page<br>
 5.Click the "Load unpacked" button on the Extensions page<br>
-6.Browse to the directory where your extension files are located (The files that you doenloaded from this repo)<br>
+6.Browse to the directory where your extension files are located (The files that you downloaded from this repo)<br>
 7.Select the folder and click "Select Folder
